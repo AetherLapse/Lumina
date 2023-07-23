@@ -22,10 +22,6 @@ To use this theme, you will need an extension that allows for custom CSS injecti
 
 ![Screenshot of Discord Custom Theme](/screenshot.png)
 
-## Acknowledgements
-
-This theme was created by scraping the website provided by the client. All design elements and color scheme come from that website. No design work or assets were created or used without permission from the website owner.
-
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
