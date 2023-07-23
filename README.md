@@ -1,4 +1,4 @@
-# Discord Custom Theme
+# Lumina Glass Theme
 
 This is a custom theme for Discord that revamps the visual appearance of the Discord UI. It was created by editing some of pre-build themes(Frosted Glass) hope you will like it.
 
