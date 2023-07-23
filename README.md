@@ -9,10 +9,14 @@ To use this theme, you will need an extension that allows for custom CSS injecti
 1.  Install BetterDiscord ([click here](https://betterdiscord.app/) for installation instructions) or BandagedBD ([click here](https://rauenzi.github.io/BBDInstaller/) for installation instructions) for your appropriate operating system.
 2.  Once installed, open Discord and navigate to User Settings > BetterDiscord (or BandagedBD) > Plugins.
 3.  Click the "Open plugins folder" button to open a file explorer window. Create a new folder named "themes" if it does not already exist.
-4.  Download the `discord-custom-theme.css` file provided in this repository and place it in the "themes" folder.
+4.  Download the `theme.css` file provided in this repository and place it in the "themes" folder.
 5.  Restart Discord and navigate to User Settings > BetterDiscord (or BandagedBD) > Themes.
 6.  Select "discord-custom-theme" from the themes dropdown menu and click "Save".
 7.  Discord will now reload and the custom theme should be applied.
+
+## Raw File for Vencord or other Clients
+
+[Click here](https://raw.githubusercontent.com/AetherLapse/Lumina/main/theme.css)
 
 ## Screenshot
 
